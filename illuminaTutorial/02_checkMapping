@@ -1,0 +1,1 @@
+validate_mapping_file.py -o vmf-map/ -m map.tsv
