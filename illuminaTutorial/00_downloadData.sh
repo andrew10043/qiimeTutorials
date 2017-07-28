@@ -1,3 +1,7 @@
+#!/bin/sh
+
+source activate qiime1
+
 cd data
 
 wget ftp://ftp.microbio.me/qiime/tutorial_files/moving_pictures_tutorial-1.9.0.tgz ||
