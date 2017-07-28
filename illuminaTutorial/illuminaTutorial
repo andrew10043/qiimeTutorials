@@ -1,0 +1,5 @@
+sh 00_downloadData
+
+python 01_importData.py
+
+sh 02_checkMapping
