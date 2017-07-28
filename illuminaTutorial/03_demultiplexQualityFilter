@@ -1,0 +1,3 @@
+split_libraries_fastq.py -o slout/ -i forward_reads.fastq.gz -b barcodes.fastq.gz -m map.tsv
+
+count_seqs.py -i slout/seqs.fna
