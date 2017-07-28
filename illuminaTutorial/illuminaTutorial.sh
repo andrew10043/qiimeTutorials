@@ -1,3 +1,5 @@
+#!/bin/sh
+
 source 00_downloadData.sh
 
 python 01_importData.py
