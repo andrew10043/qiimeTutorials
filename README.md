@@ -12,3 +12,7 @@ QIIME site: http://qiime.org/
 - Samples from two human subjects (tongue, fecal, hands)
 
 More information can be found on the [tutorial site](http://nbviewer.jupyter.org/github/biocore/qiime/blob/1.9.1/examples/ipynb/illumina_overview_tutorial.ipynb).
+
+## QIIME Textbook Tutorial
+
+More information can be found on the [book site](https://www.gitbook.com/book/twbattaglia/introduction-to-qiime/details).
